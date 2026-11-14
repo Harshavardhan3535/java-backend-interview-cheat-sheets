@@ -1,13 +1,11 @@
 
 # Spring Boot Annotations Cheat Sheet
 
-About 60 essential Spring Boot annotations for Java backend interviews, each with a one-word keyword, plus the traps that catch people out. Covers Spring Boot 3.x and 4.x.
-
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x%20%7C%204.x-6DB33F?logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?logo=openjdk&logoColor=white)
 ![Updated](https://img.shields.io/badge/updated-Nov%202026-blue)
 
-About 60 essential Spring Boot annotations for Java backend interviews...
+About 60 essential Spring Boot annotations for Java backend interviews, each with a one-word keyword, plus the traps that catch people out. Covers Spring Boot 3.x and 4.x.
 
 **Last updated:** November 2026
 

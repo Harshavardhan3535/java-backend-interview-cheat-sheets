@@ -2,8 +2,6 @@
 
 Quick-revision cheat sheets for Java backend interviews: short keywords, plain-English meanings and the traps that catch people out.
 
-# Interview Cheat Sheets
-
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 Quick-revision cheat sheets for Java backend interviews...
