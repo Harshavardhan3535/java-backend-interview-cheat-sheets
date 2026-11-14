@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-Quick-revision cheat sheets for Java backend interviews...
+Quick-revision cheat sheets for Java backend interviews: short keywords, plain-English meanings and the traps that catch people out.
 
 ## Available cheat sheets
 
@@ -11,10 +11,6 @@ Quick-revision cheat sheets for Java backend interviews...
 | [Spring Boot Annotations](spring-boot-annotations/) | About 60 annotations in 9 groups, for Spring Boot 3.x & 4.x | Nov 2026 |
 
 More topics (SQL, Java) will be added over time.
-
-## Preview
-
-![Spring Boot Annotations cover](spring-boot-annotations/cover.png)
 
 ## How to use
 1. Open a topic folder and download the PDF.
