@@ -21,6 +21,6 @@ More topics (SQL, Java) will be added over time.
 Found a mistake or something outdated? Open an issue. Each sheet has a "last updated" date.
 
 ## Author
-Harsha Vardhan • [GitHub](https://github.com/Harshavardhan3535) • [LinkedIn](www.linkedin.com/in/srikakulapu-harshavardhan-6367bb28b)
+Harsha Vardhan • [GitHub](https://github.com/Harshavardhan3535) • [LinkedIn](https://www.linkedin.com/in/srikakulapu-harshavardhan-6367bb28b)
 
 *Unofficial notes, not affiliated with the Spring project or any other project mentioned.*
