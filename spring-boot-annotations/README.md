@@ -67,7 +67,7 @@ Found a mistake or something outdated? Open an issue. Spring changes quickly, so
 **Harsha Vardhan**
 
 - GitHub: [Harshavardhan3535](https://github.com/Harshavardhan3535)
-- LinkedIn: [Harsha Vardhan](www.linkedin.com/in/srikakulapu-harshavardhan-6367bb28b)
+- LinkedIn: [Harsha Vardhan](linkedin.com/in/srikakulapu-harshavardhan-6367bb28b)
 
 ---
 
